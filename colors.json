@@ -1,0 +1,246 @@
+{
+  "color": {
+    "grey": {
+      "sky-grey": {
+        "value": "#111236ff",
+        "type": "color"
+      },
+      "sky-grey-tint-01": {
+        "value": "#444560ff",
+        "type": "color"
+      },
+      "sky-grey-tint-02": {
+        "value": "#68697fff",
+        "type": "color"
+      },
+      "sky-grey-tint-03": {
+        "value": "#8f90a0ff",
+        "type": "color"
+      },
+      "sky-grey-tint-04": {
+        "value": "#b2b2bfff",
+        "type": "color"
+      },
+      "sky-grey-tint-05": {
+        "value": "#cdcdd7ff",
+        "type": "color"
+      },
+      "sky-grey-tint-06": {
+        "value": "#dddde5ff",
+        "type": "color"
+      },
+      "sky-grey-tint-07": {
+        "value": "#f1f2f8ff",
+        "type": "color"
+      },
+      "sky-white": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "sky-blue": {
+        "value": "#0770e3ff",
+        "type": "color"
+      },
+      "sky-blue-shade-03": {
+        "value": "#02122cff",
+        "type": "color"
+      },
+      "sky-blue-shade-02": {
+        "value": "#042759ff",
+        "type": "color"
+      },
+      "sky-blue-shade-01": {
+        "value": "#084eb2ff",
+        "type": "color"
+      },
+      "sky-blue-tint-01": {
+        "value": "#6d9febff",
+        "type": "color"
+      },
+      "sky-blue-tint-02": {
+        "value": "#9dc0f2ff",
+        "type": "color"
+      },
+      "sky-blue-tint-03": {
+        "value": "#cddff8ff",
+        "type": "color"
+      }
+    },
+    "other": {
+      "monteverde": {
+        "value": "#00a698ff",
+        "type": "color"
+      },
+      "glencoe": {
+        "value": "#73cec6ff",
+        "type": "color"
+      },
+      "sagano": {
+        "value": "#d0eeecff",
+        "type": "color"
+      },
+      "kolkata": {
+        "value": "#ff9400ff",
+        "type": "color"
+      },
+      "erfoud": {
+        "value": "#ffb54dff",
+        "type": "color"
+      },
+      "bagan": {
+        "value": "#ffebd0ff",
+        "type": "color"
+      },
+      "bunol": {
+        "value": "#ff7b59ff",
+        "type": "color"
+      },
+      "petra": {
+        "value": "#ffab95ff",
+        "type": "color"
+      },
+      "nara": {
+        "value": "#ffe7e0ff",
+        "type": "color"
+      },
+      "abisko": {
+        "value": "#5a489bff",
+        "type": "color"
+      },
+      "valensole": {
+        "value": "#a59bc8ff",
+        "type": "color"
+      },
+      "tochigi": {
+        "value": "#e1ddecff",
+        "type": "color"
+      },
+      "panjin": {
+        "value": "#d1435bff",
+        "type": "color"
+      },
+      "hilier": {
+        "value": "#e18b96ff",
+        "type": "color"
+      },
+      "harbour": {
+        "value": "#f6dde1ff",
+        "type": "color"
+      }
+    },
+    "dark-mode": {
+      "black": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "black-tint-1": {
+        "value": "#1d1b20ff",
+        "type": "color"
+      },
+      "black-tint-2": {
+        "value": "#2c2c2eff",
+        "type": "color"
+      },
+      "black-tint-3": {
+        "value": "#3a3a3cff",
+        "type": "color"
+      },
+      "black-tint-4": {
+        "value": "#48484aff",
+        "type": "color"
+      },
+      "black-tint-5": {
+        "value": "#636366ff",
+        "type": "color"
+      },
+      "black-tint-6": {
+        "value": "#8e8e93ff",
+        "type": "color"
+      },
+      "sky-blue-tint-1": {
+        "value": "#6d9febff",
+        "type": "color"
+      },
+      "petra": {
+        "value": "#ffab95ff",
+        "type": "color"
+      },
+      "monteverde": {
+        "value": "#00a698ff",
+        "type": "color"
+      },
+      "glencoe": {
+        "value": "#73cec6ff",
+        "type": "color"
+      },
+      "valensole": {
+        "value": "#a59bc8ff",
+        "type": "color"
+      },
+      "erfoud": {
+        "value": "#ffb54dff",
+        "type": "color"
+      },
+      "panjin": {
+        "value": "#d1435bff",
+        "type": "color"
+      }
+    },
+    "typography": {
+      "primary-light-mode": {
+        "value": "#111236ff",
+        "type": "color"
+      },
+      "secondary-light-mode": {
+        "value": "#68697fff",
+        "type": "color"
+      },
+      "disabled-light-mode": {
+        "value": "#b2b2bfff",
+        "type": "color"
+      },
+      "primary-dark-mode": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "secondary-dark-mode": {
+        "value": "#8e8e93ff",
+        "type": "color"
+      },
+      "disabled-dark-mode": {
+        "value": "#8e8e93ff",
+        "type": "color"
+      },
+      "link": {
+        "value": "#0770e3ff",
+        "type": "color"
+      },
+      "secondary-link": {
+        "value": "#00a698ff",
+        "type": "color"
+      },
+      "error": {
+        "value": "#d1435bff",
+        "type": "color"
+      }
+    },
+    "ios": {
+      "blur": {
+        "value": "#ffffffeb",
+        "type": "color"
+      }
+    },
+    "scrims": {
+      "darkening-overlay": {
+        "value": "#02122c8f",
+        "type": "color"
+      },
+      "dimming-underlay": {
+        "value": "#b2b2bfb2",
+        "type": "color"
+      }
+    }
+  }
+}
